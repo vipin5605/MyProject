@@ -1,0 +1,4 @@
+MyProject
+=========
+
+Accelerometer Graph Plotting
